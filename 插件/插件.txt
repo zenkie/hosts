@@ -1,0 +1,11 @@
+KB SSL Enforcer 2.0.5_0
+https://chrome.google.com/webstore/detail/kb-ssl-enforcer/flcpelgcagfhfoegekianiofphddckof?hl=zh-CN
+
+C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\flcpelgcagfhfoegekianiofphddckof\2.0.5_0
+
+扩展程序：C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\flcpelgcagfhfoegekianiofphddckof\2.0.5_0.crx
+密钥文件：C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\flcpelgcagfhfoegekianiofphddckof\2.0.5_0.pem
+
+https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=zh-CN
+
+ https://clients2.google.com/service/update2/crx?response=redirect&x=id%3Dgcbommkclmclpchllfjekcdonpmejbdp%26uc
